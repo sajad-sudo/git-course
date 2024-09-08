@@ -1,0 +1,7 @@
+button{
+    display: flex;
+    flex-direction: column;
+    background-color: skyblue;
+    margin: 3px;
+    
+}
